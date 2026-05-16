@@ -6,3 +6,4 @@ yfinance>=0.2.50
 openai>=1.90
 APScheduler>=3.10
 pytz>=2024.1
+streamlit>=1.40
